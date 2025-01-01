@@ -125,7 +125,7 @@ table {
 
 body {
   font-family: "Poppins", sans-serif;
-  background: url(../img/bg.png) fixed;
+  background: url(/img/bg.png) fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -158,13 +158,13 @@ h1 {
 
 @media screen and (max-width: 600px) {
   body {
-    background: url(../img/bg.png) fixed;
+    background: url(/img/bg.png) fixed;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .container {
     width: 65vw;
-    background: url(../img/anisya.png) fixed;
+    background: url(/img/anisya.png) fixed;
   }
   .container p {
     font-size: 1.1rem;
